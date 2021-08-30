@@ -1,4 +1,4 @@
-# App designed to help with the article [insert linn here]
+# App designed to help with the [article](https://www.tec-agency.com/deploy-ssg-create-react-app-in-iis/)
 ## CreateReactApp single page application using static site generation (SSG) powered by react-snap on IIS using nodejs, IISNode and an epxress server.
 
 For more details you can check out the article mentioned above
